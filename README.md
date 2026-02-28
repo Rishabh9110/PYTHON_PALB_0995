@@ -1,3 +1,8 @@
+#PROBLEM NUMBER 1 Reverse an Array
+
+## Python Code
+
+```python
 class Solution:
     def reverseArray(self, arr):
         left = 0
@@ -9,5 +14,8 @@ class Solution:
             right -= 1
 
         return arr
+```
 
-        <img width="959" height="555" alt="REVERSE_AN_ARRAY" src="https://github.com/user-attachments/assets/b36e24a8-0aa6-4799-a4ed-15715a4d8046" />
+## Output Screenshot
+
+<img src="https://github.com/user-attachments/assets/a1e33e29-768f-4a59-ace0-cc802799466e" width="600"/>
